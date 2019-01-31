@@ -1,7 +1,7 @@
 import random
 
-for x in range (1):# Für x soll im Bereich (1) :
- zufaeligeZahl = random.randint(1, 100)# Zahlen zwischen (1 und 100) ausgegeben werden.
+for x in range (1):# Fopr x create (one) number :
+ zufaeligeZahl = random.randint(0, 100)#numbers between 0 and 100.
 print("Das ist das Zahlenratespiel. Dein Ziel ist es die zufällige Zahl zu finden")
 eingabe = int(input("Gib eine Zahl ein"))
 
