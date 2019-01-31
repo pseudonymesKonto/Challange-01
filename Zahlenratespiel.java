@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 
 
-public class Zahlratespiel {
+public class Zahlenratespiel {
 	
 	public static void main(String[] args) {
 		float generierteZahl = (float) Math.random() * 100;
